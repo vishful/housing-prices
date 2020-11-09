@@ -4,3 +4,6 @@ This project was made as a part of a training program so as to predict prices of
 
 
 Mainly works with techniques of linear regression.
+
+
+Find the documentation attached above.
